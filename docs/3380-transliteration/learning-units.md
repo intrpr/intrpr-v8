@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Learning units
-parent: Transliteration
+parent: ASL3380 Transliteration
 has_children: true
 nav_order: 2
 ---
