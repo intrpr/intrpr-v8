@@ -5,7 +5,7 @@ nav_order: 3
 has_children: true
 permalink:
 ---
-{% include figure.html image="https://www.tulsacc.edu/sites/default/files/styles/program_header/public/program/header-image/asl_program_5.jpg" alt="deaf older female teacher signing to a classroom in front of a green-colored blackboard" %}
+![](http://thephilanews.s3.amazonaws.com/wp-content/uploads/2012/12/Gallaudet-University-Widening-Horizons-for-the-Deaf.jpg)
 
 # Transliteration <small>(ASL3380)</small>
 
