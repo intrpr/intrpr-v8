@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Order
-parent: Transliteration
+parent: Order
 grand_parent: Tests
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Exclusion
-parent: Transliteration
+parent: Exclusion
 grand_parent: Tests
 ---
 

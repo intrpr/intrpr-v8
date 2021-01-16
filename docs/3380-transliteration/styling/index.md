@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Styling
-parent: Tests
+parent: Transliteration
 has_children: true
 ---
 

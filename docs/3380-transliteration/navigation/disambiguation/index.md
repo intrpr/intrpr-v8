@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Disambiguation 
-parent: Transliteration
+parent: Disambiguation
 grand_parent: Tests
 ---
 
