@@ -2,7 +2,7 @@
 layout: default
 title: Learning unit X
 parent: Learning units
-grand_parent: Transliteration
+grand_parent: <small>(ASL3380)</small> Transliteration
 permalink: /docs/ui-components/code/line-numbers/
 ---
 
