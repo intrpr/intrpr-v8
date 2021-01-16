@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: about
 title: About this site
 nav_order: 20
 ---
