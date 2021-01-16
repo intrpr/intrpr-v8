@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Assignments
-parent: Transliteration
+parent: <small>(ASL3380)</small> Transliteration
 has_children: true
 nav_order: 3
 ---
