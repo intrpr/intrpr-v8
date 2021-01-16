@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Learning unit X
-parent: Assignments
+parent: Learning units
 grand_parent: <small>(ASL3380)</small> Transliteration
 nav-order: 1
 ---
 
-# Code snippets with line numbers
+# Learning unit
 
 The default settings for HTML compression are incompatible with the HTML
 produced by Jekyll (4.1.1 or earlier) for line numbers from highlighted code

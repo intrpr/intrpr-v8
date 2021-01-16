@@ -6,7 +6,7 @@ has_children: true
 nav_order: 3
 ---
 
-# Code
+# Assignment
 {: .no_toc }
 
 ## Table of contents

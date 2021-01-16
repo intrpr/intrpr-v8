@@ -3,10 +3,10 @@ layout: default
 title: Assignment X
 parent: Assignments
 grand_parent: <small>(ASL3380)</small> Transliteration
-nav_order: 3
+nav_order: 1
 ---
 
-# Code
+# Assignment X
 {: .no_toc }
 
 ## Table of contents
