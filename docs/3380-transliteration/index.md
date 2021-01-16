@@ -5,6 +5,7 @@ nav_order: 3
 has_children: true
 permalink:
 ---
+{% include figure.html image="https://www.tulsacc.edu/sites/default/files/styles/program_header/public/program/header-image/asl_program_5.jpg" alt="deaf older female teacher signing to a classroom in front of a green-colored blackboard" %}
 
 # Transliteration <small>(ASL3380)</small>
 
@@ -31,3 +32,5 @@ This course is intended to help prepare candidates to demonstrate competence in 
 A significant portion of this course requires self-directed efforts (a/sychronously working with other colleagues) and fairly good command of web-based technologies and learning environments (video creation, salient discussion and reporting skills; we’ll discuss this more in class).
 
 This course requires a one-hour per week lab criteria; students should expect to spend at least an hour a week on skill-building exercises in a language laboratory setting.
+
+### What others have said about this course
