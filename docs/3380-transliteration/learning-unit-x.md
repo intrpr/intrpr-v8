@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Assignment X
+title: Learning unit X
 parent: Assignments
 grand_parent: <small>(ASL3380)</small> Transliteration
-permalink: /docs/ui-components/code/line-numbers/
+nav-order: 1
 ---
 
 # Code snippets with line numbers

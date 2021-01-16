@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Assignments
-parent: <small>(ASL3380)</small> Transliteration
-has_children: true
+title: Assignment X
+parent: Assignments
+grand_parent: <small>(ASL3380)</small> Transliteration
 nav_order: 3
 ---
 
