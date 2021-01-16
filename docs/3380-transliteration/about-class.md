@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About course
-parent: Transliteration
+parent: <small>(ASL3380)</small> Transliteration
 nav_order: 4
 ---
 
