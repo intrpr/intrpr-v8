@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Typography
+title: Syllabus
 parent: Transliteration
 nav_order: 1
 ---
