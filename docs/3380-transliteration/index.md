@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Transliteration <small>ASL3380</small>
+title: <small>(ASL3380)</small> Transliteration
 nav_order: 3
 has_children: true
 permalink: /docs/3380-transliteration
