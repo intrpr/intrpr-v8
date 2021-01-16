@@ -2,7 +2,7 @@
 layout: default
 title: Transliteration — About class
 nav_order: 4
-has_children: true
+has_children: false
 permalink: /docs/3380-about
 ---
 

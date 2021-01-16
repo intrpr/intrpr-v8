@@ -2,7 +2,7 @@
 layout: default
 title: Transliteration — Syllabus
 nav_order: 2
-has_children: true
+has_children: false
 permalink: /docs/3380-syllabus
 ---
 

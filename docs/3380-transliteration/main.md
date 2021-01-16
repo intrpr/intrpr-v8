@@ -2,7 +2,7 @@
 layout: default
 title: Transliteration
 nav_order: 1
-has_children: true
+has_children: false
 permalink: /docs/3380-transliteration
 ---
 
