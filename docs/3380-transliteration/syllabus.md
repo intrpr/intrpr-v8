@@ -5,7 +5,7 @@ parent: <small>(ASL3380)</small> Transliteration
 nav_order: 1
 ---
 
-# Typography
+# Syllabus
 {: .no_toc }
 
 ## Table of contents

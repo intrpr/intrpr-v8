@@ -1,11 +1,11 @@
 ---
 layout: default
-title: About class
+title: About course
 parent: Transliteration
 nav_order: 4
 ---
 
-# Tables
+# About this course
 
 Tables are responsive by default, allowing wide tables to have a horizontal scroll to access columns outside of the normal viewport.
 
