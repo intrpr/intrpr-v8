@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Transliteration — Syllabus
+title: Syllabus
 nav_order: 2
 has_children: false
 permalink: /docs/3380-syllabus

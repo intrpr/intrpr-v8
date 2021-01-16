@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Transliteration — Assignments
+title: Assignments
 nav_order: 3
 has_children: false
 permalink: /docs/3380-assignments
