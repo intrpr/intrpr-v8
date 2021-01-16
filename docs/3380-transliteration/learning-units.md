@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Buttons
+title: Learning units
 parent: Transliteration
+has_children: true
 nav_order: 2
 ---
 
