@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About this site
-nav_order: 2
+nav_order: 20
 ---
 
 # About this site
@@ -23,10 +23,9 @@ Just the Docs has some specific configuration parameters that can be defined in 
 ## What’s going on here?
 This site is intended to make my life a little simpler as an instructor (and contributing practitioner to the field). Let’s face it: a university education is difficult. It takes up an inordinate amount of time, and, while it is well worth it in the long run, a wee bit of organization certainly helps the cause.
 
-```
 ### Holla.
 Additionally, this site is intended to give back to my colleagues in the interpreting community to whom I am indebted. There is a liberal Creative Commons license covering materials available from this site; information and professional development should be open and sharable within our interpreting community. This license does not apply, however, to work claimed by other authors and producers. Additionally, every intent has been made to make materials available via “Fair Use,” (§107 to 118, Title 17, US Code); the content and downloadable materials on the pages of this Web site are solely for the benefit of the students enrolled in these courses. We’re all trying to get and be better in this field; put your money where your mouth is.
-```
+
 This site is also an experiment in simplicity. Users hate to be frustrated when they use websites, so I’ve tried to make every contingency that I could think of. I’m sure you, gentle reader, will find areas that can be improved and so I invite your feedback.
 
 This entire site is standards-compliant; (for you gearheads) it is developed responsively in HTML5, CSS3, and is W3C compliant. Within the body of the site, there is not one — no, not one — tdbody, colspan, or icky Microsoft FrontPage line of code included. Thanks to the beauty of cascading style sheets, everything you see before you is text-based.
