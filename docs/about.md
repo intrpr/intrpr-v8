@@ -1,10 +1,10 @@
 ---
 layout: about
-title: About this site
+title: About
 nav_order: 20
 ---
 
-# About this site
+# About
 {: .no_toc }
 
 
@@ -50,16 +50,17 @@ If you need to contact me, the best way is via email or text. If you absolutely 
 
 You can also schedule appointments with me on campus either before/after class.
 
+
+## My background and vitae
+I have been an adjunct instructor in the ASL & Deaf Studies department at Utah Valley University since 1995. I teach a variety of signed language interpreting courses, including an introduction to the field, cross-cultural considerations in interpreting, and consecutive and simultaneous bidirectional interpretation/transliteration. My academic interests are in interpreter education, nineteenth-century Deaf history, history and etymology of signed languages, visual and graphical representations of signed language, and enhancing teaching opportunities with technology.
+* Instructor, ASL & Deaf Studies Department, Foreign Languages, Utah Valley University, Orem, Utah (August 1995 to present)
+* Utah State QA/Level III (Master) Interpreting Certificate, State of Utah. Certificate maintenance includes 60+ triannual hours of professional development. Past employment and client list includes: Utah State Department of Education, Brigham Young University, Utah Valley Community College, International Committee of Sports for the Deaf (CISS), the Smithsonian Institution, and ESPN. Also numerous contractor opportunities with community businesses, corporate, educational and medical institutions, and private agencies. (1992 to present)
+* Master of Science, Instructional Psychology and Technology, Brigham Young University
+* Bachelor of Fine Arts, Brigham Young University
+
 ## Colophon
 This site is viewed optimally in all modern HTML5-compliant web and mobile/device browsers (except maybe Windows Internet Explorer which is 1) dangerous and susceptible to myriad security issues and 2) has continued to ignore standards compliancy; sorry if this causes any problems for you).
 
 After binders and stacks of overhead transparencies started to become unwieldy, this site was originally worked out on paper and then brought to life in 2002 — fifteen years ago! — on an Apple Macintosh G5 using Macromedia Dreamweaver, TextMate, and TextWrangler. The site is now in its fourth version, rapidly built on the Twitter Bootstrap 3.x framework and maintained with Atom on several different computers and devices (but mostly on a 15" 2.3 GHz Intel Core i7 MacBook Pro). Typefaces used are Libre Franklin by Pablo Impallari and Poppins by Ninad Kale and both are hosted at Google Fonts.
 
 A note on privacy: I don’t (read: can’t) collect or store any information about users so you can breathe a little easier.
-
-## My background/vitae
-I have been an adjunct instructor in the ASL & Deaf Studies department at Utah Valley University since 1995. I teach a variety of signed language interpreting courses, including an introduction to the field, cross-cultural considerations in interpreting, and consecutive and simultaneous bidirectional interpretation/transliteration. My academic interests are in interpreter education, nineteenth-century Deaf history, history and etymology of signed languages, visual and graphical representations of signed language, and enhancing teaching opportunities with technology.
-* Instructor, ASL & Deaf Studies Department, Foreign Languages, Utah Valley University, Orem, Utah (August 1995 to present)
-* Utah State QA/Level III (Master) Interpreting Certificate, State of Utah. Certificate maintenance includes 60+ triannual hours of professional development. Past employment and client list includes: Utah State Department of Education, Brigham Young University, Utah Valley Community College, International Committee of Sports for the Deaf (CISS), the Smithsonian Institution, and ESPN. Also numerous contractor opportunities with community businesses, corporate, educational and medical institutions, and private agencies. (1992 to present)
-* Master of Science, Instructional Psychology and Technology, Brigham Young University
-* Bachelor of Fine Arts, Brigham Young University
