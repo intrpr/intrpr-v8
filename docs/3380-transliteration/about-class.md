@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tables
+title: About class
 parent: Transliteration
 nav_order: 4
 ---
