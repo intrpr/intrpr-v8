@@ -5,7 +5,7 @@ nav_order: 3
 has_children: true
 permalink:
 ---
-![](http://thephilanews.s3.amazonaws.com/wp-content/uploads/2012/12/Gallaudet-University-Widening-Horizons-for-the-Deaf.jpg)
+![](https://thephilanews.s3.amazonaws.com/wp-content/uploads/2012/12/Gallaudet-University-Widening-Horizons-for-the-Deaf.jpg)
 
 # Transliteration <small>(ASL3380)</small>
 
