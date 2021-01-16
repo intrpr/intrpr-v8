@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Code with line numbers
-parent: Code
+title: Learning unit X
+parent: Learning units
 grand_parent: Transliteration
 permalink: /docs/ui-components/code/line-numbers/
 ---
