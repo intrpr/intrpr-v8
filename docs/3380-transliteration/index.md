@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Transliteration
-parent: 3380-transliteration
 has_children: true
 nav_order: 100
 ---
