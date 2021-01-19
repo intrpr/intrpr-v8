@@ -5,15 +5,19 @@ nav_order: 24
 ---
 
 # Changelog
----
 
 
 {: .fs-6 .fw-300 }
 
+---
+
+19/Jan 
+* Update nav_orders, add 3310, 3330, 3350, 3360, 439R, 4370, and 4520 class placeholders.
+
 15/Jan 2021
 * Launch v.8 project; need database, search, static page creation (jekyll takes too long)
 	* eleventy.js on github?
-* Install Just The Docs Jekyll-based documentation theme. 
+* Install [Just The Docs](https://pmarsceill.github.io/just-the-docs/) Jekyll-based documentation theme. 
 * Identify basic document structure and update nav_orders. 
 * Basic architecture: 
 	* syllabus, assignment(s), learning units, about = "course"; courses constitute site.
@@ -28,7 +32,6 @@ nav_order: 24
 * Site will not publish if configuration.md and customization.md are removed; why? (O_o). Added nav_exclude to them and changed nav_order to 98 and 99.
 * Search is broken, need to identify why.
 
-19/Jan 
-* Update nav_orders, add 3310, 3330, 3350, 3360, 439R, 4370, and 4520 class placeholders.
+
 
 
