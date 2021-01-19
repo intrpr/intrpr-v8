@@ -13,6 +13,7 @@ nav_order: 24
 
 19/Jan 
 * Update nav_orders, add 3310, 3330, 3350, 3360, 439R, 4370, and 4520 class placeholders.
+* Figure out plan to store quiz, exam, rubrics, and other supporting class info here but not make it searchable or findable, just storable.
 
 15/Jan 2021
 * Launch v.8 project; need database, search, static page creation (jekyll takes too long)
