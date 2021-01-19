@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: intrpr.info
 description: Course materials and research for sign language interpreting students and practitioners.
-baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
+baseurl: "/intrpr-v8" # the subpath of your site, e.g. /blog
 url: "https://intrpr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
