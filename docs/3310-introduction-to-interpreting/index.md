@@ -1,7 +1,7 @@
 ---
 layout: default
 title: <small>(ASL3310)</small> Introduction to Interpreting
-nav_order: 3
+nav_order: 2
 has_children: true
 permalink:
 ---

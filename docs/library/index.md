@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Changelog
-nav_order: 20
+title: Library
+nav_order: 21
 ---
 
-# Changelog
+# Library
 {: .no_toc }
 
 

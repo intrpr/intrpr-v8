@@ -1,7 +1,7 @@
 ---
 layout: default
 title: <small>(ASL439R)</small> Resources for Professional Sign Language Interpreters
-nav_order: 3
+nav_order: 9
 has_children: true
 permalink:
 ---

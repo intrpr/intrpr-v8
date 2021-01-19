@@ -1,7 +1,7 @@
 ---
 layout: default
 title: <small>(ASL3370)</small> Sign-to-Spoken-English Interpreting
-nav_order: 3
+nav_order: 6
 has_children: true
 permalink:
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact
-nav_order: 20
+nav_order: 23
 ---
 
 # Contact

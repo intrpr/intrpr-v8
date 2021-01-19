@@ -1,7 +1,7 @@
 ---
 layout: default
 title: <small>(ASL4520)</small> Deaf People and Disability Studies
-nav_order: 3
+nav_order: 10
 has_children: true
 permalink:
 ---
