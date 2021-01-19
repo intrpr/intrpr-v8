@@ -5,7 +5,7 @@ nav_order: 24
 ---
 
 # Changelog
-{: .no_toc }
+---
 
 
 {: .fs-6 .fw-300 }
@@ -31,11 +31,4 @@ nav_order: 24
 19/Jan 
 * Update nav_orders, add 3310, 3330, 3350, 3360, 439R, 4370, and 4520 class placeholders.
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
 
