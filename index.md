@@ -14,7 +14,7 @@ This site is currently primarily for use by Utah Valley University American Sign
 {: .fs-6 .fw-300 }
 
 ---
-{
+{:
 <div class="card">
   <div class="card-image">
     <img src="img/osx-el-capitan.jpg" class="img-responsive">
