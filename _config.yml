@@ -64,8 +64,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+#  "Just the Docs on GitHub":
+#    - "//github.com/pmarsceill/just-the-docs"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
@@ -86,7 +86,6 @@ footer_content: "Copyright &copy; 1995-2021 Doug Stringham. This work is license
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
-
 
 
 # Footer "Edit this page on GitHub" link text
