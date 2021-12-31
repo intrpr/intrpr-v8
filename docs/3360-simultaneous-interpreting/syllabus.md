@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Syllabus
-parent: <small>(ASL3360)</small> Simultaneous Interpreting
+parent: Simultaneous Interpreting <small>(ASL3360)</small>
 nav_order: 1
 ---
 

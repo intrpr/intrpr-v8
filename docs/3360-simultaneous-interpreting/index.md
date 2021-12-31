@@ -1,12 +1,12 @@
 ---
 layout: default
-title: <small>(ASL3360)</small> Simultaneous Interpreting
+title: Simultaneous Interpreting <small>(ASL3360)</small>
 nav_order: 5
 has_children: true
 permalink:
 ---
 
-# Simultaneous Interpreting <small>(ASL3350)</small>
+# Simultaneous Interpreting <small>(ASL3360)</small>
 
 {: .fs-6 .fw-300 }
 

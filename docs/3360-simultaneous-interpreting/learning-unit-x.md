@@ -2,7 +2,7 @@
 layout: default
 title: Learning unit X
 parent: Learning units
-grand_parent: <small>(ASL3360)</small> Simultaneous Interpreting
+grand_parent: Simultaneous Interpreting <small>(ASL3360)</small>
 nav-order: 1
 ---
 

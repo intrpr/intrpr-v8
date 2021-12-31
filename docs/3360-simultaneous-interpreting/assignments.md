@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Assignments
-parent: <small>(ASL3360)</small> Simultaneous Interpreting
+parent: Simultaneous Interpreting <small>(ASL3360)</small>
 has_children: true
 nav_order: 3
 ---

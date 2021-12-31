@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Learning units
-parent: <small>(ASL3360)</small> Simultaneous Interpreting
+parent: Simultaneous Interpreting <small>(ASL3360)</small>
 has_children: true
 nav_order: 2
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Assignment X
 parent: Assignments
-grand_parent: <small>(ASL3360)</small> Simultaneous Interpreting
+grand_parent: Simultaneous Interpreting <small>(ASL3360)</small>
 nav_order: 1
 ---
 
