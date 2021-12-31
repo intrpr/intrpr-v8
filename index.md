@@ -14,7 +14,7 @@ This site is currently primarily for use by Utah Valley University American Sign
 {: .fs-6 .fw-300 }
 
 ---
-{
+
 <div class="card">
   <div class="card-image">
     <img src="img/osx-el-capitan.jpg" class="img-responsive">
@@ -30,7 +30,6 @@ This site is currently primarily for use by Utah Valley University American Sign
     <button class="btn btn-primary">Button text</button>
   </div>
 </div>
-}
 
 ## Getting started
 
@@ -92,8 +91,7 @@ Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/j
 
 ### Contributing
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
+When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
 
 #### Thank you to the contributors of Just the Docs!
 
