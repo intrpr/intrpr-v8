@@ -20,14 +20,14 @@ This site is currently primarily for use by Utah Valley University American Sign
     <img src="img/osx-el-capitan.jpg" class="img-responsive">
   </div>
   <div class="card-header">
-    <div class="card-title h5">...</div>
-    <div class="card-subtitle text-gray">...</div>
+    <div class="card-title h5">Title</div>
+    <div class="card-subtitle text-gray">Subtitle</div>
   </div>
   <div class="card-body">
-    ...
+    Body text
   </div>
   <div class="card-footer">
-    <button class="btn btn-primary">...</button>
+    <button class="btn btn-primary">Button text</button>
   </div>
 </div>
 }
