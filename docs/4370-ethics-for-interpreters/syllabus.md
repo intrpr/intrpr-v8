@@ -16,7 +16,7 @@ nav_order: 1
 
 ---
 
-### Published Course Description and Prerequisites
+### Published course description and prerequisites
 In keeping with a January 2016 request from the University’s Department of Languages and Cultures, the original course description and prerequisites are listed below. Other than the obvious conversion of this course into an online-only asynchronous format, the above learning objectives for this course are expansions and clarifications of the original expectations:
 
 “Prerequisites: ASL 3360, matriculation into the Interpreting Emphasis and University Advanced Standing 
