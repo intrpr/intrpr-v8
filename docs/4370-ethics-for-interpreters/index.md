@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <small>(ASL4370)</small> Ethics for Interpreters
+title: Ethics for Interpreters <small>(ASL4370)</small>
 nav_order: 8
 has_children: true
 permalink:

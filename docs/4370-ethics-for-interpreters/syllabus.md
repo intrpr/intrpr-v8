@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Syllabus
-parent: <small>(ASL4370)</small> Ethics for Interpreters
+parent: Ethics for Interpreters <small>(ASL4370)</small>
 nav_order: 1
 ---
 

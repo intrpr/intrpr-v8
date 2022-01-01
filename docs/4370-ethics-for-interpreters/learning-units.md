@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Learning units
-parent: <small>(ASL4370)</small> Ethics for Interpreters
+parent: Ethics for Interpreters <small>(ASL4370)</small>
 has_children: true
 nav_order: 2
 ---
